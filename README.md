@@ -1,0 +1,2 @@
+# TestFragmentAdapte
+test commonTabLayout+viewPager 
